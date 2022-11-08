@@ -9,9 +9,9 @@ node_modules
 
 
 !/wp-content/themes/
-/wp-content/themes/*
-/wp-content/themes/starter-theme/
-/wp-content/themes/starter-theme/*
+!/wp-content/themes/*
+!/wp-content/themes/starter-theme/
+!/wp-content/themes/starter-theme/*
 
 !/wp-content/plugins/
 /wp-content/plugins/*
